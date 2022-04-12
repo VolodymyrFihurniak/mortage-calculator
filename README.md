@@ -19,3 +19,6 @@ npm run build
 ```
 npm run lint
 ```
+IMPORTANTLY!
+
+Change the IP address in the methods: fetchPosts (), loadMorePosts () to your local!
