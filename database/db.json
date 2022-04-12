@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "name": "Privat 24/7",
+      "interest_rate": "24",
+      "maximum_loan": "300000",
+      "minimum_down_payment": "60000",
+      "loan_term": "6",
+      "id": 1649714841097
+    }
+  ]
+}
